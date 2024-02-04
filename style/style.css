@@ -1,0 +1,1707 @@
+*{
+    margin: 0;
+    align-items: start;
+    padding: 0;
+}
+
+.secodddddddddnd-div-is-the-best{
+    position: relative;
+}
+
+.navbbaavababababab{
+    display: flex;
+    position: sticky;
+    top: 0;
+    align-items: start;
+}
+
+.first-navbar{
+    height: 60px;
+    width: 100%;
+    background-color: rgb(39, 165, 39);
+    display: flex;
+}
+
+.facebook{
+    padding-top: 12px;
+    margin-left: 30px;
+}
+
+.facebook-link-rel{
+    font-size: 22px;
+}
+
+.link-favicon{
+    font-size: 24px;
+}
+
+.fontawesome{
+    margin-left: 30px;
+    padding-top: 13px;
+}
+
+.add-user-link,
+.telephone-user-link,
+.chat-user-link{
+    font-size: 18px; 
+}
+
+.add-user-link-text,
+.telephone-user-link-text,
+.chat-user-link-text{
+    font-size: 14pt;
+    text-decoration: none;
+    color: white;
+    font-family: Poppins, sans-serif;
+}
+
+.add-user-link-text:hover{
+    color: white;
+}
+
+.twenty-four-link:hover{
+    color: white;
+}
+
+.chat-user-link-text:hover{
+    color: white;
+}
+
+.telephone-user-link-text:hover{
+    color: white;
+}
+
+.telephone-user,
+.chat-user{
+    margin-left: 50px;
+    padding-top: 12px;
+}
+
+.add-user{
+    margin-left: 450px;
+    padding-top: 12px;
+}
+
+.twenty-four-seven{
+    color: white;
+    width: 60px;
+    height: 30px;
+    border-color: transparent;
+    background-color: rgb(119, 119, 228);
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+.suio-vc-c-fc-mobike{
+    position: relative;
+}
+
+.twenty-four-link{
+    color: white;
+    font-family: Poppins, sans-serif;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.second-navbar{
+    width: 100%;
+    margin-top: -10px;
+    z-index: -99999999;
+    height: 160px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+
+.second-navbar-link-div{
+    margin-left: 30px;
+}
+
+.services-text-dropdown,
+.location-text-dropdown,
+.pricing-text-dropdown{
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+}
+
+.baba{
+    cursor: pointer;
+}
+
+.dropdown-button{
+    font-size: 12pt;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+.services-div{
+    display: flex;
+    padding-top: 55px;
+    padding-left: 150px;
+
+}
+
+.locations-div,
+.pricing-div{
+    display: flex;
+    margin-top: 55px;
+    margin-left: 50px;   
+}
+
+.get-started-anchor{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.get-started-button{
+    width: 150px;
+    height: 50px;
+    margin-top: 45px;
+    margin-left: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: rgb(95, 95, 241);
+}
+
+.first-page{
+    background: linear-gradient(rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), url("https://www.ehcus.com/wp-content/uploads/2021/02/Elder-Home-Care-Header.jpg");
+    background-size: contain;
+    width: 100%;
+    height: 500px;
+}
+
+.senior-home-care{
+    font-size: 30pt;
+    font-family: Poppins, sans-serif;
+    color: white;
+    font-weight: 600;
+    padding-top: 60px;
+    margin-left: 50px;
+}
+
+.horizontal-line-one{
+    width: 150px;
+    height:2px;
+    background-color: white;
+    border-color: transparent;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.text-of-first-page{
+    width: 500px;
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    color: white;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-left: 50px;
+    line-height: 35px;
+}
+
+.learn-more{
+    width: 150px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: rgb(28, 128, 28);
+}
+
+.contact-more{
+    width: 150px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: rgb(37, 37, 88);
+}
+
+.learn-more-link,
+.contact-more-link{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    font-size: 10pt;
+    text-decoration: none;
+}
+
+.trusted-senior-home{
+    font-size: 30pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.text-text-text{
+    margin-left: 55px;
+    width: 730px;
+    line-height: 35px;
+}
+
+.elder-text{
+    color: #1b80ff;
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+}
+
+.elder-home-text{
+    color: #7bbf4f;
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    margin-left: 5px;
+}
+
+.elder-home-text-another{
+    color: #000000;
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    margin-left: 5px;
+    font-weight: 500;
+}
+
+.our-dash{
+    color: #000000;
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+}
+
+.text-second-text{
+    margin-left: 55px;
+    width: 730px;
+    margin-top: 50px;
+    line-height: 35px;
+}
+
+#carouselExampleControls{
+    width: 842px;
+    position: absolute;
+    z-index: -99999999;
+    background-color: #fdfdfd;
+    margin-top: 50px;
+}
+
+
+.text-of-slider-one{
+    font-family: Poppins, sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+.dot-dot-one{
+    font-family: Poppins, sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+.read-more-one{
+    font-family: Poppins, sans-serif;
+    color: blue;
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#read-less-text-one{
+    display: none;
+}
+
+.read-less-one{
+    font-family: Poppins, sans-serif;
+    color: blue;
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+    display: none;
+}
+
+.robert-shubrook{
+    color: black;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+}
+
+.date-of-post-one{
+    color: black;
+    font-family: Poppins, sans-serif;
+    margin-left: 10px;
+}
+
+.robert-bull{
+    margin-top: 15px;
+}
+
+.image-google{
+    height: 20px;
+    width: 40px;
+    margin-left: 10px;
+}
+
+.image-gogle{
+    height: 20px;
+    width: 20px;
+    margin-left: 10px;  
+}
+
+.second-page{
+    display: flex;
+}
+
+.second-page-div-one{
+    width: 550px;
+    height: 1000px;
+    margin-left: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-top: -100px;
+    border-radius: 10px;
+}
+
+.free-obligation{
+    font-family: Poppins,sans-serif;
+    font-size: 28px;
+    margin-left: 54px;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    font-weight: 700;
+}
+
+.elde-text{
+    color: #1b80ff;
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+}
+
+.elde-home-text{
+    color: #7bbf4f;
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    margin-left: 3px;
+}
+
+.bulllshiiittt{
+    color: #000000;
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    margin-left: 3px;
+}
+
+.text-of-ammmmmma{
+    color: #000000;
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    margin-left: 3px;
+}
+
+.div-wake-up{
+    margin-top: 20px;
+    margin-left: 20px ;
+}
+
+.name-of-person{
+    padding-left: 40px;
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    border-width: 1px;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+}
+
+form{
+    font-family: Poppins, sans-serif;
+}
+
+.name-of-person-div{
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.style-add-to-all{
+    margin-top: 20px;
+    margin-left: 70px;  
+}
+
+.of-person{
+    padding-left: 40px;
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    border-width: 1px;
+}
+
+.checkbox-div-below{
+    width: 25px;
+    height: 25px;
+    margin-top: 50px;
+}
+
+.checkbox-div{
+    margin-left: 80px;
+    display: flex;
+}
+
+.checkbox-text{
+    font-family: Poppins, sans-serif;
+    font-size: 10pt;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.recaptcha-div{
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+.submit-link{
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Poppins, sans-serif;
+    background-color: rgb(87, 87, 190);
+    border-color: transparent;
+    color: white;
+    border-radius: 10px;
+}
+
+.button-div-one-submit{
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.third-page{
+    background: linear-gradient(rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), url('https://www.ehcus.com/wp-content/uploads/2021/02/Elder-Care-Call-banner-scaled.jpg)');
+    background-size: contain;
+    width: 100%;
+    height: 247px;
+    margin-top: 100px;
+}
+
+.whatever-i-forgot-one{
+    color: white;
+    font-size: 25pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    padding-top: 30px;
+    margin-left: 40px;
+}
+
+.bullshit-text-third-ppage{
+    color: white;
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    width: 350px;
+    padding-top: 20px;
+    margin-left: 40px;
+}
+
+.ffourth-page{
+    background-color: rgb(255, 255, 255);
+    width: 480px;
+    box-shadow: 20px 20px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: -30px;
+    margin-right: 200px;
+    display: flex;
+}
+
+.text-i-did-not-forget{
+    color: rgb(48, 48, 48);
+    font-weight: 500;
+    margin-left: 110px;
+    padding-top: 10px;
+    margin-bottom: 60px;
+    font-size: 35px;
+}
+
+.text-long-fourth-page{
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+}
+
+.darkened-text-fourth{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Poppins, sans-serif;
+    color: black;
+    margin-left: 5px;
+}
+
+.one-side-of-page-two{
+    margin-left: 30px;
+    margin-right: 5px;
+    line-height: 30px;
+    padding-top: 20px;
+}
+
+.read-whtever{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(78, 78, 172);
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.read-dash-dash{
+    margin-left: 110px;
+    margin-top: 60px;
+}
+
+.hHH{
+    background-image: url("https://www.ehcus.com/wp-content/uploads/2021/03/Meal-Preparation-and-Planning-1024x655.jpg");
+    width: 215px;
+    height: 137px;
+    box-shadow: 20px 20px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 160px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+
+.hhH{
+    background-image: url("https://www.ehcus.com/wp-content/uploads/2021/03/Meal-Preparation-and-Planning-1024x655.jpg");
+    width: 215px;
+    height: 135px;
+    box-shadow: 20px 20px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 160px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+
+.extra-maam{
+    margin-left: 400px;
+    margin-top: -275px;
+}
+
+.ectra-mam{
+    margin-left: 680px;
+    margin-top: -247px;
+}
+
+.ectrra-mam{
+    margin-left: 960px;
+    margin-top: -244px;
+}
+
+.meal-prep{
+    font-family: Poppins, sans-serif;
+    font-size: 16pt;
+    margin-left: 175px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.meal-prepaa{
+    font-family: Poppins, sans-serif;
+    font-size: 16pt;
+    margin-left: 190px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.learn-more-link-anchor{
+    font-family: Poppins, sans-serif;
+    font-size: 12pt;
+    color: rgb(143, 143, 207);
+    font-weight: 600; 
+}
+
+.learn-more-butt{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    border-width: 3px;
+    margin-left: 190px;
+    margin-top: -10px;
+    border-color: rgb(143, 143, 207);
+}
+
+.learn-more-buttaa{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    border-width: 3px;
+    margin-left: 192px;
+    margin-top: -10px;
+    border-color: rgb(143, 143, 207);
+}
+
+.meal-prepa{
+    font-family: Poppins, sans-serif;
+    font-size: 16pt;
+    margin-left: 183px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.one-flippin-side-of-the-div-is-completed-second-startying{
+    margin-left: 50px;
+    line-height: 100px;
+}
+
+.free-asses-ment{
+    font-size: 18pt;
+    color:rgb(0, 132, 255);
+    width: 10px;
+    margin-left: 70px;
+}
+
+.another-side-of-my-div{
+    text-align: center;
+}
+
+.free-text-assse{
+    font-size: 14pt;
+}
+
+.learn-more-link-anchora{
+    font-family: Poppins, sans-serif;
+    font-size: 12pt;
+    color: rgb(143, 143, 207);
+    font-weight: 600; 
+}
+
+.one-flippinside-of-the-div-is-completed-second-startying{
+    margin-left: 40px;
+    line-height: 100px;
+}
+
+.learn-more-butta{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    border-width: 3px;
+    margin-left: 195px;
+    margin-top: -10px;
+    border-color: rgb(143, 143, 207);
+}
+
+.green-div{
+    width: 400px;
+    height: 20px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 200px;
+    background-color: rgb(130, 231, 130);
+}
+
+.yellow-alla-white-div{
+    width: 400px;
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: -13px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 20px 20px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.reate-and-review{
+    font-family: Poppins, sans-serif;
+    color: rgb(81, 81, 81);
+    margin-left: 100px;
+    padding-top: 40px;
+    font-size: 20pt;
+    font-weight: 600;
+}
+
+.one-bro{
+    color: black;
+    font-family: Poppins, sans-serif;
+    margin-left: 40px;
+    line-height: 30px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+.blacky{
+    color: black;
+    font-family: Poppins, sans-serif;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: -15px;
+    font-weight: 600;
+}
+
+.i-donno-bro-boo{
+    background-color: rgb(0, 132, 255);
+    border-color: transparent;
+    border-radius: 5px;
+    width: 170px;
+    margin-left: 110px;
+    margin-top: 50px;
+    height: 40px;
+}
+
+.link-to-somewhere{
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 800;
+    font-size: 11pt;
+}
+
+.one-side-of-web-fith-pags{
+    display: flex;
+}
+
+.reate-and-revieew{
+    font-family: Poppins, sans-serif;
+    color: rgb(81, 81, 81);
+    margin-left: 110px;
+    padding-top: 40px;
+    font-size: 20pt;
+    margin-bottom: 50px;
+    font-weight: 600;
+}
+
+.rock-paper{
+    color: black;
+    font-family: Poppins, sans-serif;
+    margin-left: 40px;
+    line-height: 30px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+.syiii{
+    color: black;
+    font-family: Poppins, sans-serif;
+    margin-left: 40px;
+    line-height: 30px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+.i-donno-bro-booo{
+    background-color: rgb(0, 132, 255);
+    border-color: transparent;
+    border-radius: 5px;
+    width: 170px;
+    margin-left: 110px;
+    margin-top: 60px;
+    height: 40px;
+}
+
+.blackyy{
+    color: black;
+    font-family: Poppins, sans-serif;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-weight: 600;
+    margin-top: -15px;
+}
+
+.onee-bro{
+    color: black;
+    font-family: Poppins, sans-serif;
+    margin-left: 40px;
+    line-height: 30px;
+    margin-right: 40px;
+    margin-top: 50px;  
+    margin-bottom: 0px;
+}
+
+.bull-with-a{
+    color: black;
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+}
+
+.i-donno-bro-boo0{
+    background-color: rgb(0, 132, 255);
+    border-color: transparent;
+    border-radius: 5px;
+    width: 170px;
+    margin-left: 110px;
+    margin-top: 60px;
+    height: 40px;
+}
+
+.next-page-bro{
+    margin-top: 150px;
+}
+
+.next-whatever-what-the-us{
+    font-family: Poppins, sans-serif;
+    font-size: 25pt;
+    margin-left: 50px;
+    font-weight: 600;
+}
+
+.ele-tet{
+    color: #1b80ff;
+    font-size: 25pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    margin-left: 5px;
+}
+
+.ede-home-text{
+    color: #7bbf4f;
+    font-size: 25pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    margin-left: 5px;
+}
+
+.next-whatever-what-the-flip-us{
+    font-family: Poppins, sans-serif;
+    font-size: 25pt;
+    font-weight: 600;
+    margin-left: 5px;
+}
+
+.what-the-hexk{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    font-weight: 500;
+}
+
+.one-side-of-web-site-i-have-done-it{
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 900px;
+    line-height: 35px;
+}
+
+.one-full-thing-brooo{
+    display: flex;
+}
+
+.i-donnnoo-bro-boo0{
+    background-color: rgb(0, 132, 255);
+    border-color: transparent;
+    border-radius: 5px;
+    width: 260px;
+    margin-left: 100px;
+    margin-top: 40px;
+    height: 40px;
+}
+
+.gren-div{
+    width: 400px;
+    height: 20px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 100px;
+    background-color: rgb(130, 231, 130);
+}
+
+.yellow-ala-white-div{
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: -13px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 20px 100px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text-of-an-leter{
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    margin-left: 130px;
+    padding-top: 30px;
+}
+
+.faceboo-link-rel{
+    font-size: 13pt;
+}
+
+.linkdinn-link-rel{
+    font-size: 14pt;
+}
+
+.dfacebook{
+    margin-top: 20px;
+    margin-left: 145px;
+}
+
+.dlinkedin{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.what-the-lo-ya-mo-ya{
+    display: flex;
+}
+
+.dlinkedin{
+    margin-left: 30px;
+}
+
+.adminitsra-bull{
+   font-family: Poppins, sans-serif;
+   font-size: 13pt;
+   font-weight: 600; 
+   margin-top: 20px;
+   margin-left: 135px;
+}
+
+.new-york-state-give-blue{
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+    color: #1b80ff;
+    font-size: 13pt;
+    letter-spacing: 1px;
+}
+
+.what-new-york{
+    margin-left: 114px;
+    margin-top: 40px;
+}
+
+.tibaut-cortious-next-page{
+    display: flex;
+}
+
+#carouselMaterialStyle{
+    margin-top: 100px;
+    z-index: -99999999999;
+}
+
+.testimonials-slider-hash-two{
+    font-size: 40px;
+    color: #515151;
+    font-weight: 300;
+}
+
+.what-the-lo-yam-mo-ye-is-this-review-byeck{
+    color: #4A4E57;
+    font-size: 21px;
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    margin-top: 30px;
+}
+
+.carousel-indicators{
+    border-radius: 50%;
+}
+
+.morer-review-go-get-them-bro-dont-fail{
+    background-color: rgb(0, 132, 255);
+    border-color: transparent;
+    border-radius: 5px;
+    width: 170px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    height: 40px;
+    margin-top: 10px;
+    letter-spacing: 1px;
+}
+
+.bullllllllllllll-shit{
+    font-family: 'Vollkorn', serif;
+    font-size: 18pt;
+    color: #515151;
+    font-weight: 400;
+    margin-top: 50px;
+    width: 800px;
+    margin-left: 78px;
+}
+
+.machiel-g-who{
+    font-family: Poppins, sans-serif;
+    font-weight: 18px;
+    color: #515151;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.greeeeen-divvv{
+    background-color: rgb(130, 231, 130);
+    width: 1200px;
+    margin-left: 80px;
+    margin-top: 100px;
+    height: 5px;
+    border-radius: 2px;
+}
+
+.skibiki-dop-dop-dop-dop-ye-ye{
+    width: 1200px;
+    margin-left: 80px;
+    border-radius: 2px;
+    margin-top: -2px;
+    height: 850px;
+    background-color: white;
+    box-shadow: 100px 100px 100px 100px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.leates-review-pic{
+    padding-top: 20px;
+    margin-left: 500px;
+    font-size: 25pt;
+    font-family: Poppins, sans-serif;
+}
+
+.image-container-yaaa{
+    background-image: url("https://www.ehcus.com/wp-content/uploads/2023/09/Factors-to-Consider-When-Choosing-Senior-Care-700x441.png");
+    background-size: cover;
+    width: 550px;
+    height: 350px;
+    margin-top: 50px;
+    margin-left: 35px;
+    box-shadow: 20px 100px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.iage-container-yaaa{
+    background-image: url("https://www.ehcus.com/wp-content/uploads/2023/09/Why-Caregiving-is-a-Great-Job-for-Retirees-and-Empty-Nesters-700x441.jpg");
+    background-size: cover;
+    width: 550px;
+    height: 350px;
+    margin-top: 50px;
+    margin-left: 35px;
+    box-shadow: 20px 100px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cccoco-mmelon{
+    color: #6baeff;
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: 65px;
+}
+
+.cccoco-mmmelon{
+    color: #6baeff;
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: 42px;
+}
+
+.ccccocmmm{
+    color: #6baeff;
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    margin-left: 275px; 
+}
+
+.commments-dont-woryy{
+    font-size: 10pt;
+    color: black;
+    font-family: Poppins, sans-serif;
+    margin-top: 10px;
+    margin-left: 180px;
+}
+
+.one-the-hellllll{
+    color: #000000;
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.two-the-helllll{
+    color: #000000;
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+
+.epra{
+    line-height: 15px;
+    margin-top: 30px;
+}
+
+.butifulllllll{
+    display: flex;
+}
+
+.sdhfgsdhf{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.ababababa{
+    background-color: rgb(0, 132, 255);
+    border-color: transparent;
+    border-radius: 5px;
+    width: 250px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    height: 40px;
+    margin-top: 80px;
+    margin-left: 450px;
+    letter-spacing: 0.5px;
+}
+
+.imagagagaagaaa{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.ijjhdjahjshdkjahd{
+    font-size: 18px;
+}
+
+.facebook-of-blessing{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+
+.instajhasjhjkasjfhjk{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.fjhdsjfhskjfgshdfjsd{
+    font-size: 19px;
+}
+
+.flex-boxes-ldoskh{
+    display: flex;
+}
+
+.fhfhfhfhfhfhfhfhfh{
+    font-size: 18px;
+}
+
+.jkdfhkjsdhfjkdhfjkdhlks{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.jgkhgjhnoghjgjgjhh{
+    width: 200px;
+    height: 200px;
+}
+
+.imhghgfhgfgh{
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.vamos-santo-ricko-te{
+    display: flex;
+}
+
+.fbulllllll{
+    font-family: Poppins, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.cjsj{
+    font-size: 14pt;
+    font-weight: 600;
+    font-family: Poppins, sans-serif;
+}
+
+.fjkhdjfhfjjjjj{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.dhsjroan{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    margin-top: 15px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+}
+
+.djhdrondna{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-bottom: 0px; 
+}
+
+.hdsjfhjshjdkfhsdkjhfkjs{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.tewoioifhjds{
+    font-family: Poppins, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.fkindungkinownonw{
+    font-family: Poppins, sans-serif;
+    font-size: 16pt;
+    color: rgb(112, 112, 112);
+}
+
+.onfhsjkhfjkshkjfshkj{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.last-page-forever{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.services-div{
+    padding-bottom: 75px;
+}
+
+.slide-bottom {
+    margin-top: 80px;
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+	-webkit-animation: slide-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation: slide-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+  
+
+/* ----------------------------------------------
+ * Generated by Animista on 2023-10-19 10:52:35
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation slide-bottom
+ * ----------------------------------------
+ */
+ @-webkit-keyframes slide-bottom {
+    0% {
+      -webkit-transform: translateY(0);
+              transform: translateY(0);
+    }
+    100% {
+      -webkit-transform: translateY(100px);
+              transform: translateY(100px);
+    }
+  }
+  @keyframes slide-bottom {
+    0% {
+      -webkit-transform: translateY(0);
+              transform: translateY(0);
+    }
+    100% {
+      -webkit-transform: translateY(100px);
+              transform: translateY(100px);
+    }
+  }
+  
+  
+
+.lkjhgfdsa{
+    color: rgb(70, 70, 180);
+}
+
+
+.button-div-example-div-which-helps-us-to-help-us-us-to-to{
+    width: 900px;
+    background-color: white;
+    height: 530px;
+    position: fixed;
+    box-shadow: 20px 20px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 300px;
+    display: none;
+    margin-top: -540px;
+}
+
+.id-my-mouse-suiii-ronaldo{
+    width: 800px;
+    background-color: white;
+    height: 500px;
+    box-shadow: 20px 20px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 400px;
+    display: none;
+    margin-top: -460px; 
+}
+
+.asdfghjkl{
+    font-size: 13pt;    
+}
+
+.sefrvixces-bro-services-werong-number{
+    padding-top: 20px;
+    margin-left: 30px;
+}
+
+.sefvixces-bro-services-werong-number{
+    padding-top: 20px;
+    margin-left: 30px;
+    width: 136px;
+}
+
+.adfghjkl{
+    font-size: 13pt;
+}
+
+.full-div-needs-to-be-in-here-non-two-million{
+    display: flex;
+    position: fixed;
+}
+
+.right-angle-triangle-right-angle{
+    font-size: 12pt;
+}
+
+.companion-care-div-in-dropdown{
+    margin-left: 15px;
+    padding-top: 20px;
+    width: 200px;
+}
+
+.right-angle-companion-care-href{
+    color: rgb(110, 110, 110);
+    font-size: 13pt;
+    font-weight: 400;
+    margin-left: 5px;
+}
+
+.companion-care-dropdown-two{
+    margin-top: 18px;
+    margin-left: 18px;
+    width: 170px;
+}
+
+.image-href-companion-image{
+    width: 180px;
+}
+
+.source-image-of-companion-care{
+    width: 180px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 15px;
+    height: 120px;
+}
+
+.companion-care-text-blue{
+    font-size: 20pt;
+    font-weight: 600;
+    margin-left: 25px;
+    margin-top: 10px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 33px;
+}
+
+.third-siv-which-is-three-out-of-four{
+    margin-left: 40px;
+}
+
+.free-saassesment-div-flex{
+    font-size: 20pt;
+    text-align: center;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+.fourth-page-of-website-which-is-one-whole-suiii{
+    width: 240px;
+}
+
+.one-span-ferererr{
+    margin-left: 34px;
+}
+
+.free-saassesment-div-flex{
+    margin-left: 32px;
+}
+
+.open-gananan-style{
+    margin-left: 27px;
+}
+
+.one-side-of-suiii{
+    margin-top: 28px;
+    margin-left: 50px;
+}
+
+.one-side-of-my-div-no-one-milliomn{
+    font-size: 18px;
+}
+
+.asqwzxdfercv{
+    margin-left: 45px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.another-page-div-let-s-get-it{
+    font-weight: 600;
+}
+
+.schelde-now-olny-buton{
+    width: 200px;
+    height: 45px;
+    color: white;
+    border-radius: 5px;
+    border-color: transparent;
+    letter-spacing: 1px;
+    background-color: #1b80ff;
+}
+
+.href-ofohnh-yo-slow-game-day-flag{
+    color: white;
+    font-size: 11pt;
+    font-weight: 600;
+}
+
+.button-schelede-now{
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.second-mouse-hover-sucks{
+    width:500px;
+    height: 400px;
+    background-color: white;
+}
+
+#sewysewy{
+    margin-top: 55px;
+    display: none;
+    margin-left: 25px;
+}
+
+
+@media only screen and (max-width: 600px){
+    .first-navbar{
+        width: 1358px;
+        height: 520px;
+    }
+
+    .first-navbar .facebook .facebook-link-rel{
+        font-size: 60pt;
+        margin-left: 470px;
+    }
+
+    .first-navbar .linkedin .linkedin-link{
+        font-size: 63pt;
+        margin-left: 50px;
+    }
+
+    .first-navbar .instagram .instagram-link{
+        font-size: 63pt;
+        display: block;
+        margin-left: 50px;
+    }
+
+    .first-navbar .add-user{
+        margin-top: 180px;
+        margin-left: -490px;
+    }   
+
+    .first-navbar .add-user-link{
+        font-size: 47pt;
+    }
+
+    .first-navbar .add-user-link-text{
+        font-size: 44pt;
+    }
+
+    .first-navbar .telephone-user{
+        margin-top: 350px;
+        margin-left: -930px;
+    }
+
+    .first-navbar .telephone-user .telephone-user-link{
+        font-size: 47pt;
+    }
+
+    .first-navbar .telephone-user .telephone-user-link-text{
+        font-size: 44pt;
+    }
+
+    .first-navbar .twenty-four-seven{
+        margin-top: 365px;
+        width: 160px;
+        height: 100px;
+        font-size: 44pt;
+    }
+
+    .first-navbar .twenty-four-seven .twenty-four-link{
+        font-size: 36pt;
+    }
+
+    .first-navbar .chat-user{
+        margin-top: 350px;
+    }
+
+    .first-navbar .chat-user .chat-user-link{
+        font-size: 44pt;
+    }
+
+    .first-navbar .chat-user .chat-user-link-text{
+        font-size: 40pt;
+    }
+
+    .second-navbar{
+        margin-top: 1px;
+        width: 2988px;
+        height: 700px;
+        background-color: #ffffff;
+    }
+
+    .navbbaavababababab{
+        position: relative;
+    }
+
+    .second-navbar-image-link{
+        height: 600px;
+        margin-right: 400px;
+        margin-top: 20px;
+        width: 800px;
+        position: static;
+    }
+
+    .services-div{
+        display: none;
+    }
+
+    .locations-div{
+        display: none;
+    }
+
+    .kfll {
+        display: none;
+    }
+
+    #sewysewy{
+        display: contents;
+        font-size: 55pt;
+        margin-top: 250px;
+    }
+
+    .ninaya{
+        margin-top: 60px;
+    }
+
+    .first-page{
+        width: 1360px;
+        height: 2100px;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .senior-home-care{
+        margin-left: 170px;
+        padding-top: 30px;
+        line-height: -50px;
+        font-size: 150pt;
+    }
+    
+    .horizontal-line-one{
+        width: 300px;
+        margin-left: 170px;
+        background-color: #ffffff;
+        height: 15px;
+    }
+
+    .text-of-first-page{
+        font-size: 50pt;
+        width: 1000px;
+        line-height: 130px;
+        margin-left: 170px;
+    }
+
+    .learn-more{
+        width: 400px;
+        display: block;
+        margin-top: 150px;
+        height: 150px;
+        border-radius: 5px;
+        margin-left: 170px;
+    }
+
+    .learn-more-link,
+    .contact-more-link{
+        font-size: 28pt;
+        letter-spacing: 5px;
+    }
+
+    .contact-more{
+        width: 400px;
+        height: 150px;
+        border-radius: 5px;
+        margin-left: 170px;
+    }
+
+    .trusted-senior-home{
+        font-size: 90pt;
+        padding-right: 1000px;
+    }
+
+    .second-page{
+        display: block;
+    }
+
+    .elder-text,
+    .elder-home-text,
+    .elder-home-text-another,
+    .our-dash{
+        font-size: 33pt;
+        line-height: 78px;
+    }
+
+    #carouselExampleControls{
+        margin-top: 100px;
+        width: 950px;
+        font-size: 25pt;
+        margin-left: 50px;
+    }
+
+    .second-page-div-one{
+        margin-top: 700px;
+        width: 950px;
+        text-align: center;
+        align-items: center;
+    }
+
+    .free-obligation{
+        font-size: 50pt;
+    }
+
+    input{
+        width: 10px;
+    }
+
+    form{
+        margin-top: 20px;
+    }
+
+    .div-wake-up{
+        margin-top: 50px;
+    }
+
+    .elde-text,
+    .elde-home-text,
+    .bulllshiiittt,
+    .text-of-ammmmmma{
+        font-size: 33pt;
+    }
+}

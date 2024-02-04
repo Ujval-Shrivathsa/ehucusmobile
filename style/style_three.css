@@ -1,0 +1,736 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first-navbar{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(39, 165, 39);
+    display: flex;
+}
+
+.facebook{
+    padding-top: 12px;
+    margin-left: 30px;
+}
+
+.facebook-link-rel{
+    font-size: 22px;
+}
+
+.link-favicon{
+    font-size: 24px;
+}
+
+.fontawesome{
+    margin-left: 30px;
+    padding-top: 13px;
+}
+
+.add-user-link,
+.telephone-user-link,
+.chat-user-link{
+    font-size: 18px; 
+}
+
+.add-user-link-text,
+.telephone-user-link-text,
+.chat-user-link-text{
+    font-size: 14pt;
+    text-decoration: none;
+    color: white;
+    font-family: Poppins, sans-serif;
+}
+
+.add-user-link-text:hover{
+    color: white;
+}
+
+.twenty-four-link:hover{
+    color: white;
+}
+
+.chat-user-link-text:hover{
+    color: white;
+}
+
+.telephone-user-link-text:hover{
+    color: white;
+}
+
+.telephone-user,
+.chat-user{
+    margin-left: 50px;
+    padding-top: 12px;
+}
+
+.add-user{
+    margin-left: 450px;
+    padding-top: 12px;
+}
+
+.twenty-four-seven{
+    color: white;
+    width: 60px;
+    height: 30px;
+    border-color: transparent;
+    background-color: rgb(119, 119, 228);
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+.twenty-four-link{
+    color: white;
+    font-family: Poppins, sans-serif;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.second-navbar{
+    width: 100%;
+    height: 160px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+
+.second-navbar-link-div{
+    margin-left: 30px;
+}
+
+.services-text-dropdown,
+.location-text-dropdown,
+.pricing-text-dropdown{
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+}
+
+.baba{
+    cursor: pointer;
+}
+
+.dropdown-button{
+    font-size: 12pt;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+.services-div{
+    display: flex;
+    margin-top: 55px;
+    margin-left: 150px;
+}
+
+.locations-div,
+.pricing-div{
+    display: flex;
+    margin-top: 55px;
+    margin-left: 50px;   
+}
+
+.get-started-anchor{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.get-started-button{
+    width: 150px;
+    height: 50px;
+    margin-top: 45px;
+    margin-left: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: rgb(95, 95, 241);
+}
+
+.first-page{
+    background-color: rgb(224, 224, 224);
+    height: 1200px;
+    width: 100%;
+}
+
+.pricing-text-which-is-the-main-text{
+    font-size: 25pt;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 2px;
+    font-weight: 600;
+    margin-left: 430px;
+    padding-top: 50px;
+}
+
+.name-of-the-person-label{
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 1px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.text-name-input-text{
+    width: 500px;
+    margin-top: 5px;
+    margin-left: 100px;
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    padding-left: 20px;
+    height: 50px;
+}
+
+.phone-text-entered-inside{
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 5px;
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    padding-left: 20px;
+    height: 50px;
+}
+
+.div-label-phone{
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 1px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.services-needed-zip-code{
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 1px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.text-needed-zip-code-input{
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 5px;
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    padding-left: 20px;
+    height: 50px;
+}
+
+.all-side-of-the-whole-form{
+    display: flex;
+}
+
+.last-name-dtext-label{
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 1px;
+    margin-left: 150px;
+    margin-top: 49px;
+}
+
+.text-div-iput-text-label{
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 5px;
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    padding-left: 20px;
+    height: 50px;
+}
+
+.label-of-email{
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 1px;
+    margin-left: 159px;
+    margin-top: 40px;
+}
+
+.entere-the-input-input{
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 5px;
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    padding-left: 20px;
+    height: 50px;
+}
+
+.which-office-would-you-like-to-conntact-label{
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 1px;
+    margin-left: 159px;
+    margin-top: 40px;
+}
+
+.input-text-would-you-lie-to-use-it{
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 5px;
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    padding-left: 20px;
+    height: 50px;
+}
+
+.services-needed-non-protector{
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 1px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.one-whole-pair-of-chec-box{
+    display: flex;
+}
+
+.checkboxe-one{
+    width: 20px;
+    margin-left: 100px;
+    margin-top: 10px;
+    height: 20px;
+}
+
+.text-area-of-ong-text-one{
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+
+.reactptcha-div-paragrah{
+    font-size: 12pt;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 1px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.form-no-two{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.sumbit-button{
+    width: 140px;
+    margin-left: 100px;
+    margin-top: 20px;
+    height: 40px;
+    border-color: transparent;
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-size: 13pt;
+    border-radius: 5px;
+    background-color: rgb(73, 73, 211);
+}
+
+.text-of-second-page-header{
+    font-size: 25pt;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 80px;
+    margin-left: 250px;
+}
+
+.text-pararagraph-of-long{
+    font-family: Poppins, sans-serif;
+    font-size: 15pt;
+    width: 1200px;
+    margin-top: 20px;
+    margin-left: 80px;
+    text-align: center;
+}
+
+.second-text-paragraph-of-long{
+    font-family: Poppins, sans-serif;
+    font-size: 15pt;
+    width: 1200px;
+    margin-top: 50px;
+    margin-left: 80px;
+    text-align: center;
+}
+
+.request-signup-or-signin-o-whatever{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    color: white;
+    margin-left: 600px;
+    margin-top: 20px;
+    border-color: transparent;
+    font-family: Poppins, sans-serif;
+    font-size: 12pt;
+    font-weight: 600;
+    background-color: rgb(27, 27, 173);
+}
+
+.source-oof-image-source{
+    margin-top: 50px;
+    margin-left: 105px;
+}
+
+.one-side-of-the-website-not-ful-page-but-half-a-page{
+    background-image: url("https://www.ehcus.com/wp-content/uploads/2023/01/private-pay.jpg");
+    margin-top: 100px;
+    width: 675px;
+    height: 580px;
+    background-size: cover;
+}
+
+.third-page-only{
+    display: flex;
+}
+
+.private-pay-about-it{
+    margin-top: 200px;
+    font-size: 20pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    margin-left: 100px;
+}
+
+.green-page-amean-i-mean-green-hr{
+    width: 60px;
+    margin-left: 100px;
+    height: 4px;
+    background-color: rgb(13, 66, 13);
+}
+
+.another-bullshit-mama-but-long-won-one{
+    font-size: 12pt;
+    line-height: 30px;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 1px;
+}
+
+.text-needed-for-me-bro{
+    font-size: 12pt;
+    line-height: 30px;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 1px;
+}
+
+.prwagrapge-wrapper{
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.pwagraph-wrapper-form-dell{
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.term-one-job-whatever{
+    font-size: 20pt;
+    font-family: Poppins, sans-serif;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-weight: 600;
+}
+
+.fifth-page{
+    display: flex;
+    margin-top: -100px;
+}
+
+.needed-a--green-div-i-mean-a-horizontal-lime{
+    width: 60px;
+    margin-left: 50px;
+    height: 4px;
+    background-color: rgb(13, 66, 13);   
+}
+
+.fourth-page{
+    display: flex;
+}
+
+.second-baby-math-mithi{
+    background-image: url("https://www.ehcus.com/wp-content/uploads/2023/01/Long-Term-Care-Insurance.png");
+    background-size: cover;
+    width: 675px;
+    height: 580px;
+    margin-left: 125px;
+}
+
+.greeeeen-divvv{
+    background-color: rgb(130, 231, 130);
+    width: 1200px;
+    margin-left: 80px;
+    margin-top: 100px;
+    height: 5px;
+    border-radius: 2px;
+}
+
+.skibiki-dop-dop-dop-dop-ye-ye{
+    width: 1200px;
+    margin-left: 80px;
+    border-radius: 2px;
+    margin-top: -2px;
+    height: 850px;
+    background-color: white;
+    box-shadow: 100px 100px 100px 100px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.leates-review-pic{
+    padding-top: 20px;
+    margin-left: 500px;
+    font-size: 25pt;
+    font-family: Poppins, sans-serif;
+}
+
+.image-container-yaaa{
+    background-image: url("https://www.ehcus.com/wp-content/uploads/2023/09/Factors-to-Consider-When-Choosing-Senior-Care-700x441.png");
+    background-size: cover;
+    width: 550px;
+    height: 350px;
+    margin-top: 50px;
+    margin-left: 35px;
+    box-shadow: 20px 100px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.iage-container-yaaa{
+    background-image: url("https://www.ehcus.com/wp-content/uploads/2023/09/Why-Caregiving-is-a-Great-Job-for-Retirees-and-Empty-Nesters-700x441.jpg");
+    background-size: cover;
+    width: 550px;
+    height: 350px;
+    margin-top: 50px;
+    margin-left: 35px;
+    box-shadow: 20px 100px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cccoco-mmelon{
+    color: #6baeff;
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: 65px;
+}
+
+.cccoco-mmmelon{
+    color: #6baeff;
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: 42px;
+}
+
+.ccccocmmm{
+    color: #6baeff;
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    margin-left: 275px; 
+}
+
+.commments-dont-woryy{
+    font-size: 10pt;
+    color: black;
+    font-family: Poppins, sans-serif;
+    margin-top: 10px;
+    margin-left: 180px;
+}
+
+.one-the-hellllll{
+    color: #000000;
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.two-the-helllll{
+    color: #000000;
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+
+.epra{
+    line-height: 15px;
+    margin-top: 30px;
+}
+
+.butifulllllll{
+    display: flex;
+}
+
+.sdhfgsdhf{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.ababababa{
+    background-color: rgb(0, 132, 255);
+    border-color: transparent;
+    border-radius: 5px;
+    width: 250px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    height: 40px;
+    margin-top: 80px;
+    margin-left: 450px;
+    letter-spacing: 0.5px;
+}
+
+.fhfhfhfhfhfhfhfhfh{
+    font-size: 18px;
+}
+
+.jkdfhkjsdhfjkdhfjkdhlks{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.jgkhgjhnoghjgjgjhh{
+    width: 200px;
+    height: 200px;
+}
+
+.imhghgfhgfgh{
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.vamos-santo-ricko-te{
+    display: flex;
+}
+
+.fbulllllll{
+    font-family: Poppins, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.cjsj{
+    font-size: 14pt;
+    font-weight: 600;
+    font-family: Poppins, sans-serif;
+}
+
+.fjkhdjfhfjjjjj{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.dhsjroan{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    margin-top: 15px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+}
+
+.djhdrondna{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-bottom: 0px; 
+}
+
+.hdsjfhjshjdkfhsdkjhfkjs{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.tewoioifhjds{
+    font-family: Poppins, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.fkindungkinownonw{
+    font-family: Poppins, sans-serif;
+    font-size: 16pt;
+    color: rgb(112, 112, 112);
+}
+
+.onfhsjkhfjkshkjfshkj{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.last-page-forever{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.asdfghjkl{
+    margin-top: 80px;
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+    margin-left: 100px;
+}
+
+.lkjhgfdsa{
+    color: rgb(70, 70, 180);
+}
+
+.epra{
+    line-height: 15px;
+    margin-top: 30px;
+}
+
+.butifulllllll{
+    display: flex;
+}
+
+.sdhfgsdhf{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.ababababa{
+    background-color: rgb(0, 132, 255);
+    border-color: transparent;
+    border-radius: 5px;
+    width: 250px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    height: 40px;
+    margin-top: 80px;
+    margin-left: 450px;
+    letter-spacing: 0.5px;
+}
+
+.imagagagaagaaa{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.ijjhdjahjshdkjahd{
+    font-size: 18px;
+}
+
+.facebook-of-blessing{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+
+.instajhasjhjkasjfhjk{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.fjhdsjfhskjfgshdfjsd{
+    font-size: 19px;
+}
+
+.flex-boxes-ldoskh{
+    display: flex;
+}

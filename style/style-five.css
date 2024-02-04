@@ -1,0 +1,734 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first-navbar{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(39, 165, 39);
+    display: flex;
+}
+
+.facebook{
+    padding-top: 12px;
+    margin-left: 30px;
+}
+
+.facebook-link-rel{
+    font-size: 22px;
+}
+
+.link-favicon{
+    font-size: 24px;
+}
+
+.fontawesome{
+    margin-left: 30px;
+    padding-top: 13px;
+}
+
+.add-user-link,
+.telephone-user-link,
+.chat-user-link{
+    font-size: 18px; 
+}
+
+.add-user-link-text,
+.telephone-user-link-text,
+.chat-user-link-text{
+    font-size: 14pt;
+    text-decoration: none;
+    color: white;
+    font-family: Poppins, sans-serif;
+}
+
+.add-user-link-text:hover{
+    color: white;
+}
+
+.twenty-four-link:hover{
+    color: white;
+}
+
+.chat-user-link-text:hover{
+    color: white;
+}
+
+.telephone-user-link-text:hover{
+    color: white;
+}
+
+.telephone-user,
+.chat-user{
+    margin-left: 50px;
+    padding-top: 12px;
+}
+
+.add-user{
+    margin-left: 450px;
+    padding-top: 12px;
+}
+
+.twenty-four-seven{
+    color: white;
+    width: 60px;
+    height: 30px;
+    border-color: transparent;
+    background-color: rgb(119, 119, 228);
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+.twenty-four-link{
+    color: white;
+    font-family: Poppins, sans-serif;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.second-navbar{
+    width: 100%;
+    height: 160px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+
+.second-navbar-link-div{
+    margin-left: 30px;
+}
+
+.services-text-dropdown,
+.location-text-dropdown,
+.pricing-text-dropdown{
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+}
+
+.baba{
+    cursor: pointer;
+}
+
+.dropdown-button{
+    font-size: 12pt;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+.services-div{
+    display: flex;
+    margin-top: 55px;
+    margin-left: 150px;
+}
+
+.locations-div,
+.pricing-div{
+    display: flex;
+    margin-top: 55px;
+    margin-left: 50px;   
+}
+
+.get-started-anchor{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.get-started-button{
+    width: 150px;
+    height: 50px;
+    margin-top: 45px;
+    margin-left: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: rgb(95, 95, 241);
+}
+
+.first-page-of-the-website{
+    background: linear-gradient(rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), url("https://www.ehcus.com/wp-content/uploads/2021/03/Meal-Preparation-for-Seniors.jpg") no-repeat center center;
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+}
+
+.meal-preparetion-text-which-is-inside-a-paragraph{
+    font-size: 25pt;
+    padding-top: 100px;
+    margin-left: 900px;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.preparation-text-which-is-inside-a-second-paragraph{
+    font-size: 25pt;
+    margin-top: -20px;
+    margin-left: 840px;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.one-side-of-the-horizontal-line-dont-add-transparency{
+    width: 100px;
+    height: 4px;
+    background-color: white;
+    margin-left: 890px;
+    margin-top: 25px;
+}
+
+.paragraph-needs-to-be-cut-into-some-width{
+    width: 1111px;
+    line-height: 35px;
+}
+
+.width-cutter-paragraph{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 800px;
+    margin-top: 40px;
+}
+
+.elder-home-care-blue-colour{
+    font-size: 25pt;
+    font-weight: 600;
+    color: #1b80ff;
+}
+
+.howm-care-after-text-colour-black{
+    font-size: 23pt;
+    margin-left: 5px;
+}
+
+.home-care-green-colour-green{
+    font-size: 25pt;
+    font-weight: 600;
+    color: #7bbf4f;
+    margin-left: 5px;
+}
+
+.width-margin-left-div{
+    margin-left: 35px;
+    margin-top: 50px;
+    width: 550px;
+    line-height: 35px;
+}
+
+.text-div-is-the-best-or-span-div-no-span-text{
+    font-size: 14pt;
+}
+
+.another-div-which-has-a-long-or-full-hieght-text{
+    margin-left: 35px;
+    margin-top: 25px;
+    width: 740px;
+}
+
+.elder-is-only-text-which-is-blue-but-smaller-than-the-other-one{
+    font-size: 14pt;
+    margin-left: 3px;
+    font-weight: 600;
+    color: #1b80ff;
+}
+
+.home-care-is-only-text-which-is-greeen-but-smaller-than-the-other-one{
+    font-size: 14pt;
+    margin-left: 3px;
+    font-weight: 600;
+    color: #7bbf4f;
+}
+
+.at-next-at-lost-not-next{
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+}
+
+.next-div-not-but-next-div-yes{
+    margin-left: 35px;
+    margin-top: 25px;
+    width: 740px;
+}
+
+.next-page-which-is-second-page{
+    display: flex;
+}
+
+.second-side-of-the-page-is-one-of-the-most-important{
+    width: 550px;
+    margin-top: -80px;
+    border-radius: 5px;
+    margin-left: 22px;
+    height: 700px;
+    background-color: white;
+    box-shadow: 40px 40px 40px 40px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.request-a-call-from-ehcus-phone-number{
+    font-size: 24pt;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+    font-family: Poppins, sans-serif;
+}
+
+.text-i-donno-when-i-am-gonna-complete-thhe-website{
+    font-family: Poppins, sans-serif;
+    font-size: 19pt;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.one-side-of-the-page-two{
+    margin-top: 20px;
+}
+
+.div-check-mark-favicon-one{
+    font-size: 20pt;
+    margin-left: 40px;
+}
+
+.one-full-side-of-the-div-two{
+    display: flex;
+}
+
+.second-side-of-the-div-first-text{
+    font-family: Poppins, sans-serif;
+    font-size: 15pt;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.second-side-of-the-page-two{
+    width: 400px;
+    line-height: 35px;
+}
+
+.get-started-div-button-background-colour-blue{
+    width: 200px;
+    height: 50px;
+    background-color: #1b80ff;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 190px;
+    margin-top: 20px;
+    font-size: 11pt;
+    letter-spacing: 1px;
+    font-weight: 600;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.third-page-of-competed{
+    width: 100%;
+    height: 400px;
+    margin-top: 50px;
+    background-color: rgb(237, 244, 249);
+}
+
+.green-div-one-light-green{
+    width: 400px;
+    height: 10px;
+    margin-top: 40px;
+    background-color: #7bbf4f;
+    border-radius: 5px;
+}
+
+.what-gaurd-div-gaurd-green-div{
+    padding-top: 20px;
+}
+
+.another-div-seocnd-div-image-putter{
+    background-image: url("https://www.ehcus.com/wp-content/uploads/2021/03/Meal-Preparation.jpg");
+    width: 400px;
+    margin-top: -5px;
+    height: 280px;
+    background-size: cover;
+}
+
+.one-side-of-the-page-one-side{
+    margin-left: 25px;
+}
+
+.one-full-side-or-fourth-side-of-the-page{
+    display: flex;
+}
+
+.text-which-is-not-to-eaat-without-sommebody{
+    font-size: 20pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-align: left;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+ul{
+    margin-left: 80px;
+    padding-top: 10px;
+    line-height: 35px;
+}
+
+li{
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+}
+
+.text-of-first-fifth-page{
+    font-size: 30pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.paragraph-which-contains-everything{
+    text-align: center;
+    font-size: 18pt;
+}
+
+.paragraph-container-protector{
+    width: 1095px;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.contains-an-image-of-copy-like-copycat{
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.long-green-div{
+    width: 1222px;
+    height: 10px;
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-top: 80px;
+    background-color: #7bbf4f;
+}
+
+.white-div-long{
+    width: 1222px;
+    height: 810px;
+    display: flex;
+    background-color: white;
+    margin-left: 50px;
+    box-shadow: 40px 40px 40px 40px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: -5px;
+}
+
+.text-of-not-long-as-it-was{
+    font-size: 25pt;
+    letter-spacing: 1px;
+    font-family: Poppins, sans-serif;
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+
+.anchor-tag-elder-looks-blue{
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    color:#1b80ff;
+}
+
+.anchor-green-div-looks-green-but-stronger{
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    color:#7bbf4f;
+    margin-left: 3px;
+}
+
+.provides-span-whiocih-is-third-side{
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+    color: black;
+    font-weight: 600;
+    margin-left: 3px;
+}
+
+.in-home-care-for-seniore-combines-saying-or-typing{
+    font-size: 14pt;
+    font-weight: 600;
+    color:#1b80ff;
+    margin-left: 3px;
+}
+
+.one-side-of-the-entire-thing{
+    width: 650px;
+    margin-left: 100px;
+}
+
+.the-first-step-on-i-donno-first{
+    font-size: 13pt;
+    margin-left: 3px;
+    font-family: Poppins, sans-serif;
+}
+
+.second-one-paragraph-text{
+    margin-top: 40px;
+}
+
+.div-after-second-paragraph-once{
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+}
+
+.elder-home-care-elder-is-blue-home-care-is-green{
+    font-size: 13pt;
+    font-weight: 600;
+    color:#1b80ff;
+    margin-left: 3px;
+    font-family: Poppins, sans-serif;
+}
+
+.elder-home-care-now-home-care-which-is-green{
+    font-size: 13pt;
+    font-weight: 600;
+    color:#7bbf4f;
+    margin-left: 3px;
+    font-family: Poppins, sans-serif;
+}
+
+.paragraph-between-all-spans-two{
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+    margin-top: 40px;
+}
+
+.call-us-at{
+    font-size: 14pt;
+    font-weight: 600;
+    font-family: Poppins, sans-serif;
+    margin-top: 40px;
+}
+
+.phone-number-of-call-us-today{
+    font-size: 14pt;
+    margin-left: 4px;
+    font-family: Poppins, sans-serif;
+    color: #1b80ff;
+}
+
+.div-text-first-input-text-of-page{
+    width: 300px;
+    height: 50px;
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+    padding-left: 20px;
+    display: block;
+    margin-top: 100px;
+}
+
+.second-input-side-bar-second{
+    width: 300px;
+    height: 50px;
+    display: block;
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+.second-side-of-the-page-in-div{
+    margin-left: 65px;
+}
+
+.checkbox-number-one{
+    width: 19px;
+    height: 19px;
+    margin-right: 10px;
+    margin-top: 40px;
+}
+
+.full-div-one-whole-with-no-divs-inside-of-this-div{
+    display: flex;
+    width: 400px;
+    margin-top: 25px;
+}
+
+.the-best-span-helping-us-to-get-to-checkbox{
+    font-size: 11pt;
+    font-family: Poppins, sans-serif;
+}
+
+.recaptcha-div{
+    margin-top: 20px;
+}
+
+.sub-mit-submit{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    color: white;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 1px;
+    font-size: 11pt;
+    font-weight: 600;
+    border-color: transparent;
+    background-color: #1b80ff;
+    margin-top: 25px;
+}
+
+.epra{
+    line-height: 15px;
+    margin-top: 30px;
+}
+
+.butifulllllll{
+    display: flex;
+}
+
+.sdhfgsdhf{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.ababababa{
+    background-color: rgb(0, 132, 255);
+    border-color: transparent;
+    border-radius: 5px;
+    width: 250px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    height: 40px;
+    margin-top: 80px;
+    margin-left: 450px;
+    letter-spacing: 0.5px;
+}
+
+.imagagagaagaaa{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.ijjhdjahjshdkjahd{
+    font-size: 18px;
+}
+
+.facebook-of-blessing{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+
+.instajhasjhjkasjfhjk{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.fjhdsjfhskjfgshdfjsd{
+    font-size: 19px;
+}
+
+.flex-boxes-ldoskh{
+    display: flex;
+}
+
+.fhfhfhfhfhfhfhfhfh{
+    font-size: 18px;
+}
+
+.jkdfhkjsdhfjkdhfjkdhlks{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.jgkhgjhnoghjgjgjhh{
+    width: 200px;
+    height: 200px;
+}
+
+.imhghgfhgfgh{
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.vamos-santo-ricko-te{
+    display: flex;
+}
+
+.fbulllllll{
+    font-family: Poppins, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.cjsj{
+    font-size: 14pt;
+    font-weight: 600;
+    font-family: Poppins, sans-serif;
+}
+
+.fjkhdjfhfjjjjj{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.dhsjroan{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    margin-top: 15px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+}
+
+.djhdrondna{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-bottom: 0px; 
+}
+
+.hdsjfhjshjdkfhsdkjhfkjs{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.tewoioifhjds{
+    font-family: Poppins, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.fkindungkinownonw{
+    font-family: Poppins, sans-serif;
+    font-size: 16pt;
+    color: rgb(112, 112, 112);
+}
+
+.onfhsjkhfjkshkjfshkj{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.last-page-forever{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.asdfghjkl{
+    margin-top: 80px;
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+    margin-left: 100px;
+}
+
+.lkjhgfdsa{
+    color: rgb(70, 70, 180);
+}

@@ -1,0 +1,687 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first-navbar{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(39, 165, 39);
+    display: flex;
+}
+
+.facebook{
+    padding-top: 12px;
+    margin-left: 30px;
+}
+
+.facebook-link-rel{
+    font-size: 22px;
+}
+
+.link-favicon{
+    font-size: 24px;
+}
+
+.fontawesome{
+    margin-left: 30px;
+    padding-top: 13px;
+}
+
+.add-user-link,
+.telephone-user-link,
+.chat-user-link{
+    font-size: 18px; 
+}
+
+.add-user-link-text,
+.telephone-user-link-text,
+.chat-user-link-text{
+    font-size: 14pt;
+    text-decoration: none;
+    color: white;
+    font-family: Poppins, sans-serif;
+}
+
+.add-user-link-text:hover{
+    color: white;
+}
+
+.twenty-four-link:hover{
+    color: white;
+}
+
+.chat-user-link-text:hover{
+    color: white;
+}
+
+.telephone-user-link-text:hover{
+    color: white;
+}
+
+.telephone-user,
+.chat-user{
+    margin-left: 50px;
+    padding-top: 12px;
+}
+
+.add-user{
+    margin-left: 450px;
+    padding-top: 12px;
+}
+
+.twenty-four-seven{
+    color: white;
+    width: 60px;
+    height: 30px;
+    border-color: transparent;
+    background-color: rgb(119, 119, 228);
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+.twenty-four-link{
+    color: white;
+    font-family: Poppins, sans-serif;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.second-navbar{
+    width: 100%;
+    height: 160px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+
+.second-navbar-link-div{
+    margin-left: 30px;
+}
+
+.services-text-dropdown,
+.location-text-dropdown,
+.pricing-text-dropdown{
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+}
+
+.baba{
+    cursor: pointer;
+}
+
+.dropdown-button{
+    font-size: 12pt;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+.services-div{
+    display: flex;
+    margin-top: 55px;
+    margin-left: 150px;
+}
+
+.locations-div,
+.pricing-div{
+    display: flex;
+    margin-top: 55px;
+    margin-left: 50px;   
+}
+
+.get-started-anchor{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.get-started-button{
+    width: 150px;
+    height: 50px;
+    margin-top: 45px;
+    margin-left: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: rgb(95, 95, 241);
+}
+
+.first-page{
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://www.ehcus.com/wp-content/uploads/2021/03/Contact-Elder-Home-Care.jpg");
+    height: 550px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.first-page-paragraph{
+    font-family: Poppins, sans-serif;
+    font-size: 30pt;
+    margin-left: 80px;
+    font-weight: 600;
+    padding-top: 100px;
+    color: white;
+}
+
+.one{
+    width: 100px;
+    margin-left: 80px;
+    height: 5px;
+    margin-top: 20px;
+    background-color: solid white;
+}
+
+.another-page-paragraph-but-first-page{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    width: 700px;
+    line-height: 35px;
+    letter-spacing: 1px;
+}
+
+.paragraph-one-in-adiv{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.green-div{
+    width: 1300px;
+    height: 10px;
+    margin-left: 20px;
+    margin-top: -50px;
+    border-radius: 5px;
+    background-color: rgb(101, 173, 57);
+}
+
+.white-div{
+    width: 1300px;
+    height: 650px;
+    margin-left: 20px;
+    margin-top: -5px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 20px 20px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.just-kidding{
+    margin-left: 50px;
+    padding-top: 50px;
+    font-size: 24pt;
+    font-weight: 600;
+    font-family: Poppins, sans-serif;
+}
+
+.phone-number{
+    font-size: 40px;
+    font-weight: 600;
+    color: rgb(101, 173, 57);
+    margin-left: 50px;
+    font-family: Poppins, sans-serif;
+    margin-top: 20px;
+}
+
+.text-long-one-one{
+    color: #929AA3;
+    font-size: 15px;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 2px;
+    width: 250px;
+    line-height: 35px;
+    margin-left: 50px;
+    font-weight: 600;
+}
+
+.text-long-one-oone{
+    color: #929AA3;
+    font-size: 15px;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 2px;
+    width: 350px;
+    line-height: 35px;
+    margin-left: 50px;
+    font-weight: 600;
+}
+
+.one-horizonntal{
+    height: 4px;
+    width: 380px;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: #929AA3;
+}
+
+.one-side-of-the-bar-just-kidding{
+    display: flex;
+}
+
+.namme-input-tag{
+    width: 300px;
+    font-family: Poppins, sans-serif;
+    border-radius: 5px;
+    height: 60px;
+    border-width: 1pt;
+    margin-top: 80px;
+    display: block;
+    margin-left: 100px;
+    padding-left: 20px;
+}
+
+.tag{
+    width: 300px;
+    font-family: Poppins, sans-serif;
+    border-radius: 5px;
+    height: 60px;
+    border-width: 1pt;
+    margin-top: 20px;
+    display: block;
+    margin-left: 100px;
+    padding-left: 20px;
+}
+
+.ne-whoole-one-whole{
+    display: flex;
+}
+
+.laste-input-tag{
+    width: 300px;
+    font-family: Poppins, sans-serif;
+    border-radius: 5px;
+    height: 60px;
+    border-width: 1pt;
+    margin-top: 80px;
+    display: block;
+    margin-left: 50px;
+    padding-left: 20px;
+}
+
+.tagh{
+    width: 300px;
+    font-family: Poppins, sans-serif;
+    border-radius: 5px;
+    height: 60px;
+    border-width: 1pt;
+    margin-top: 20px;
+    display: block;
+    margin-left: 50px;
+    padding-left: 20px;
+}
+
+.threesero-second-div{
+    display: block;
+}
+
+.check-box-one{
+    display: flex;
+    margin-top: 350px;
+    margin-left: -640px;
+}
+
+.checkbox-one{
+    width: 20px;
+    height: 20px;
+}
+
+.text-lost-fom-check{
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    margin-top: -9px;
+    width: 600px;
+    margin-left: 10px;
+}
+
+.form-no-two{
+    margin-top: 60px;
+    margin-left: -630px;
+}
+
+.submit-link{
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Poppins, sans-serif;
+    background-color: rgb(87, 87, 190);
+    border-color: transparent;
+    color: white;
+    border-radius: 10px;
+    margin-top: 200px;
+    margin-left: -280px;
+}
+
+.text-of-next-page-three-third{
+    font-size: 25pt;
+    font-weight: 500;
+    margin-top: 100px;
+    margin-left: 34%;
+    font-family: Poppins, sans-serif;
+}
+
+.green-div-two{
+    width: 420px;
+    height: 10px;
+    background-color: rgb(101, 173, 57);
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.white-div-two{
+    width: 420px;
+    height: 580px;
+    background: white;
+    margin-left: 20px;
+    border-radius: 0px;
+    margin-top: -5px;
+    margin-bottom: 40px;
+    box-shadow: 20px 20px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.one-hungtington-place{
+    margin-top: 50px;
+    color: #1580FF;
+    margin-left: 120px;
+    margin-top: 50px;
+    font-size: 24px;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.anchor-tag-div-this{
+    padding-top: 40px;
+}
+
+.the-sactul-number{
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+}
+
+.number-of-a-place-of-doctor{
+    margin-left: 139px;
+    margin-top: 25px;
+}
+
+.name-of-palce-and-adress-location{
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    margin-left: 95px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+
+.another-text-of-area-or-location{
+    font-size: 18px;
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    margin-left: 110px;
+    margin-top: 0px;
+}
+
+.facebook-logo-two{
+    font-size: 16px;
+    margin-left: 160px;
+    margin-top: 20px;
+    color: rgb(82, 82, 82);
+}
+
+.instagram-logo-two{
+    font-size: 18px;
+    margin-left: 25px;
+    margin-top: 20px;
+    color: rgb(82, 82, 82);
+}
+
+.intsgram-hshw{
+    margin-top: 20px;
+}
+
+.linkedin-logo-two{
+    margin-left: 25px;
+    font-size: 17px;
+    margin-top: 20px;
+    color: rgb(82, 82, 82);
+}
+
+.one-div-which-combines-everything{
+    display: flex;
+}
+
+
+.map-o-one{
+    margin-left: 32px;
+    margin-top: 20px;
+}
+
+.whole-div-or-page-divided{
+    display: flex;
+}
+
+.whte-div-two{
+    width: 420px;
+    height: 580px;
+    background: white;
+    margin-left: 460px;
+    border-radius: 0px;
+    margin-top: -5px;
+    margin-bottom: 40px;
+    box-shadow: 20px 20px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.geen-div-two{
+    width: 420px;
+    height: 10px;
+    background-color: rgb(101, 173, 57);
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 460px;
+}
+
+#carouselMaterialStyle{
+    margin-top: 100px;
+}
+
+.testimonials-slider-hash-two{
+    font-size: 40px;
+    color: #515151;
+    font-weight: 300;
+}
+
+.what-the-lo-yam-mo-ye-is-this-review-byeck{
+    color: #4A4E57;
+    font-size: 21px;
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    margin-top: 30px;
+}
+
+.carousel-indicators{
+    border-radius: 50%;
+}
+
+.morer-review-go-get-them-bro-dont-fail{
+    background-color: rgb(0, 132, 255);
+    border-color: transparent;
+    border-radius: 5px;
+    width: 170px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    height: 40px;
+    margin-top: 10px;
+    letter-spacing: 1px;
+}
+
+.bullllllllllllll-shit{
+    font-family: 'Vollkorn', serif;
+    font-size: 18pt;
+    color: #515151;
+    font-weight: 400;
+    margin-top: 50px;
+    width: 800px;
+    margin-left: 78px;
+}
+
+.machiel-g-who{
+    font-family: Poppins, sans-serif;
+    font-weight: 18px;
+    color: #515151;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.epra{
+    line-height: 15px;
+    margin-top: 30px;
+}
+
+.butifulllllll{
+    display: flex;
+}
+
+.sdhfgsdhf{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.ababababa{
+    background-color: rgb(0, 132, 255);
+    border-color: transparent;
+    border-radius: 5px;
+    width: 250px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    height: 40px;
+    margin-top: 80px;
+    margin-left: 450px;
+    letter-spacing: 0.5px;
+}
+
+.imagagagaagaaa{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.ijjhdjahjshdkjahd{
+    font-size: 18px;
+}
+
+.facebook-of-blessing{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+
+.instajhasjhjkasjfhjk{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.fjhdsjfhskjfgshdfjsd{
+    font-size: 19px;
+}
+
+.flex-boxes-ldoskh{
+    display: flex;
+}
+
+.fhfhfhfhfhfhfhfhfh{
+    font-size: 18px;
+}
+
+.jkdfhkjsdhfjkdhfjkdhlks{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.jgkhgjhnoghjgjgjhh{
+    width: 200px;
+    height: 200px;
+}
+
+.imhghgfhgfgh{
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.vamos-santo-ricko-te{
+    display: flex;
+}
+
+.fbulllllll{
+    font-family: Poppins, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.cjsj{
+    font-size: 14pt;
+    font-weight: 600;
+    font-family: Poppins, sans-serif;
+}
+
+.fjkhdjfhfjjjjj{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.dhsjroan{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    margin-top: 15px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+}
+
+.djhdrondna{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-bottom: 0px; 
+}
+
+.hdsjfhjshjdkfhsdkjhfkjs{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.tewoioifhjds{
+    font-family: Poppins, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.fkindungkinownonw{
+    font-family: Poppins, sans-serif;
+    font-size: 16pt;
+    color: rgb(112, 112, 112);
+}
+
+.onfhsjkhfjkshkjfshkj{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.last-page-forever{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.asdfghjkl{
+    margin-top: 80px;
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+    margin-left: 100px;
+}
+
+.lkjhgfdsa{
+    color: rgb(70, 70, 180);
+}

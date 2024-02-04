@@ -1,0 +1,583 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first-navbar{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(39, 165, 39);
+    display: flex;
+}
+
+.facebook{
+    padding-top: 12px;
+    margin-left: 30px;
+}
+
+.facebook-link-rel{
+    font-size: 22px;
+}
+
+.link-favicon{
+    font-size: 24px;
+}
+
+.fontawesome{
+    margin-left: 30px;
+    padding-top: 13px;
+}
+
+.add-user-link,
+.telephone-user-link,
+.chat-user-link{
+    font-size: 18px; 
+}
+
+.add-user-link-text,
+.telephone-user-link-text,
+.chat-user-link-text{
+    font-size: 14pt;
+    text-decoration: none;
+    color: white;
+    font-family: Poppins, sans-serif;
+}
+
+.add-user-link-text:hover{
+    color: white;
+}
+
+.twenty-four-link:hover{
+    color: white;
+}
+
+.chat-user-link-text:hover{
+    color: white;
+}
+
+.telephone-user-link-text:hover{
+    color: white;
+}
+
+.telephone-user,
+.chat-user{
+    margin-left: 50px;
+    padding-top: 12px;
+}
+
+.add-user{
+    margin-left: 450px;
+    padding-top: 12px;
+}
+
+.twenty-four-seven{
+    color: white;
+    width: 60px;
+    height: 30px;
+    border-color: transparent;
+    background-color: rgb(119, 119, 228);
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+.twenty-four-link{
+    color: white;
+    font-family: Poppins, sans-serif;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.second-navbar{
+    width: 100%;
+    height: 160px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+
+.second-navbar-link-div{
+    margin-left: 30px;
+}
+
+.services-text-dropdown,
+.location-text-dropdown,
+.pricing-text-dropdown{
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+}
+
+.baba{
+    cursor: pointer;
+}
+
+.dropdown-button{
+    font-size: 12pt;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+.services-div{
+    display: flex;
+    margin-top: 55px;
+    margin-left: 150px;
+}
+
+.locations-div,
+.pricing-div{
+    display: flex;
+    margin-top: 55px;
+    margin-left: 50px;   
+}
+
+.get-started-anchor{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.get-started-button{
+    width: 150px;
+    height: 50px;
+    margin-top: 45px;
+    margin-left: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: rgb(95, 95, 241);
+}
+
+.first-pge{
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://www.ehcus.com/wp-content/uploads/2021/03/Home-Care-Careers.jpg");
+    height: 550px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    display: flex;
+}
+
+.first-page-paragraph{
+    font-family: Poppins, sans-serif;
+    font-size: 30pt;
+    margin-left: 80px;
+    font-weight: 600;
+    padding-top: 100px;
+    color: white;
+}
+
+.our-location-wala-div{
+    width: 600px;
+    height: 10px;
+    background-color: rgb(39, 39, 161);
+}
+
+.texas-manhatttan-pare-call-me-pare{
+    font-size: 16pt;
+    color: black;
+    font-weight: 600;
+    margin-top: 90px;
+    font-family: Poppins, sans-serif;
+}
+
+.texas-unitted-kingdom{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+.texas-unitted-kingdomm{
+    padding-top: 20px;
+    padding-left: 80px;  
+}
+
+.manhattan-text-div{
+    padding-top: 10px;
+    padding-left: 60px;
+}
+
+.manhattan-text-ddiv{
+    padding-top: 5px;
+    padding-left: 60px;  
+}
+
+.manhatttan-text-div{
+    padding-top: 5px;
+    padding-left: 100px; 
+}
+
+.manhattan-text-div-href{
+    font-size: 14pt;
+    color: black;
+    margin-top: 90px;
+    font-family: Poppins, sans-serif;
+}
+
+.cblue-alla-white-color-div-it-is-colour-not-color{
+    width: 680px;
+    height: 350px;
+    background-color: white;
+    margin-top: -5px;
+    display: flex;
+}
+
+.secccccoooonnn-ddddd{
+    display: none;
+}
+
+.one{
+    width: 100px;
+    margin-left: 80px;
+    height: 5px;
+    margin-top: 20px;
+    background-color: solid white;
+}
+
+.another-page-paragraph-but-first-page{
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    width: 400px;
+    line-height: 35px;
+    letter-spacing: 1px;
+}
+
+.paragraph-one-in-adiv{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.green-box-one{
+    width: 850px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 10px;
+    background-color: rgb(75, 150, 75);
+}
+
+.white-box-one{
+    height: 1400px;
+    width: 850px;
+    margin-top: -5px;
+    box-shadow: 20px 20px 20px 20px rgba(221, 221, 221, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 20px;
+    background-color: white;
+}
+
+.paragraph-third-tet-medium{
+    font-family: Poppins, sans-serif;
+    font-size: 25pt;
+    margin-left: 125px;
+    padding-top: 20px;
+}
+
+.second-paragraph-in-one-div-amazing{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+.long-text-paragraph-no-one{
+    font-family: Poppins, sans-serif;
+    font-size: 18px;  
+    width: 750px;
+}
+
+.contains-a-pargraph-no-one{
+    margin-left: 46px;
+    margin-top: 40px;
+}
+
+.horizontal-line-one-two{
+    width: 750px;
+    margin-top: 50px;
+    margin-left: 45px;
+}
+
+.image-of-anchor-tag-home-image{
+    height: 45px;
+    width: 45px;
+    margin-left: 65px;
+}
+
+.one-whole-which-is-one{
+    display: flex;
+}
+
+.unkown-place-but-it-will-take-you{
+    color: black;
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.secnd-part-of-one-whole{
+    width: 350px;
+    margin-left: 25px;
+}
+
+.unkown-second-place-after-unknown-place{
+    margin-top: -10px;
+}
+
+.one-span-first-span{
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    margin-right: 10px;
+    color: rgb(153, 153, 153);
+}
+
+.second-span-two-span{
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+    color: rgb(153, 153, 153);
+}
+
+.aname-of-aperson-no-one{
+    font-size: 18px;
+    margin-left: 20px;
+    font-family: Poppins, sans-serif;
+    color: rgb(153, 153, 153);
+}
+
+.unknwon-link-to-go-malacious{
+    color: #90DA36;
+    font-family: Poppins, sans-serif;
+    font-size: 12px;
+    margin-left: 25px;
+    font-weight: 600;
+}
+
+.one-part-of-wjhole-broring{
+    height: 38px;
+    width: 1px;
+    background-color: #4A4E57;
+    margin-left: 25px;
+}
+
+.one-whole-again-so-boring{
+    display: flex;
+}
+
+.second-whole-part-dhdhboring-broing{
+    font-size: 12px;
+    margin-left: 10px;
+    font-family: Poppins, sans-serif;
+    color: #4A4E57;
+}
+
+.fourth-part-which-is-whole-part{
+    margin-left: 20px;
+}
+
+.fulll-width-oh-my-gawd{
+    width: 700px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #1B80FF;
+    border-color: transparent;
+    color: white;
+    font-size: 10pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-left: 75px;
+    margin-top: 50px;
+}
+
+.items-neede-to-be-flex-is-in-here{
+    display: flex;
+}
+
+.text-of-last-misssss{
+    font-size: 24pt;
+    font-family: Poppins, sans-serif;
+    width: 10px;
+    margin-bottom: 20px;
+    line-height: 40px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.blue-text{
+    color: #1B80FF;
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+}
+
+.full-thing{margin-left: 60px; width: 400px; line-height: 40px;}
+
+.green-text{
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    color: #7BBF4F;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.text-like-nomal-thank-god{
+    font-size: 18px;
+    font-family: Poppins;
+}
+
+.text-but-bold{
+    color: black;
+    font-family: Poppins, sans-serif;
+    margin-left: 5px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.text-of-last-missss{
+    font-size: 24pt;
+    font-family: Poppins, sans-serif;
+    width: 10px;
+    margin-bottom: 20px;
+    line-height: 40px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-left: 60px; 
+}
+
+.unknown-div-bro{
+    margin-left: 60px;
+}
+
+ul{
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+li{
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+}
+
+.vamos-santo-ricko-te{
+    display: flex;
+}
+
+.fbulllllll{
+    font-family: Poppins, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.cjsj{
+    font-size: 14pt;
+    font-weight: 600;
+    font-family: Poppins, sans-serif;
+}
+
+.fjkhdjfhfjjjjj{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.dhsjroan{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    margin-top: 15px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+}
+
+.djhdrondna{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-bottom: 0px; 
+}
+
+.hdsjfhjshjdkfhsdkjhfkjs{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.tewoioifhjds{
+    font-family: Poppins, sans-serif;
+    font-size: 20pt;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.fkindungkinownonw{
+    font-family: Poppins, sans-serif;
+    font-size: 16pt;
+    color: rgb(112, 112, 112);
+}
+
+.onfhsjkhfjkshkjfshkj{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.last-page-forever{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.asdfghjkl{
+    margin-top: 80px;
+    font-size: 13pt;
+    font-family: Poppins, sans-serif;
+    margin-left: 100px;
+}
+
+.lkjhgfdsa{
+    color: rgb(70, 70, 180);
+}
+
+.fhfhfhfhfhfhfhfhfh{
+    font-size: 18px;
+}
+
+.jkdfhkjsdhfjkdhfjkdhlks{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.jgkhgjhnoghjgjgjhh{
+    width: 200px;
+    height: 200px;
+}
+
+.imhghgfhgfgh{
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.imagagagaagaaa{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.ijjhdjahjshdkjahd{
+    font-size: 18px;
+}
+
+.facebook-of-blessing{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+
+.instajhasjhjkasjfhjk{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.fjhdsjfhskjfgshdfjsd{
+    font-size: 19px;
+}
+
+.flex-boxes-ldoskh{
+    display: flex;
+}
